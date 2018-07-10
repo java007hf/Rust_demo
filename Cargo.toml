@@ -1,0 +1,7 @@
+[package]
+name = "rust_demo"
+version = "0.1.0"
+authors = ["wangyingli.102 <wangyingli.102@bytedance.com>"]
+
+[dependencies]
+rand = "0.3.0"
